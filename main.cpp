@@ -95,6 +95,7 @@ int main() {
     myFleet.addRobot("NanoDroid-3");
 
     myFleet.showFleet();
+    cout<<"Fleet contains:\n";
 
     return 0;
 }
